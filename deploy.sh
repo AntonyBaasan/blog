@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# g submodule add -b master -f https://github.com/AntonyBaasan/antonybaasan.github.io public
+
 # If a command fails then the deploy stops
 set -e
 
