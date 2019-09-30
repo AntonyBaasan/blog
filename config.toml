@@ -1,4 +1,4 @@
 baseURL = "http://antonybaasan.github.io/"
 languageCode = "en-us"
 title = "Antony Baasan Blog"
-theme = "hugo-bootstrap-master"
+theme = "hyde-master"
