@@ -14,6 +14,17 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 # Go To Public folder
 cd public
 
+# replace authentication for CI
+if [ -n "$GITHUB_AUTH_SECRET" ]
+then
+    touch ~/.git-credentials
+    chmod 0600 ~/.git-credentials
+    echo $GITHUB_AUTH_SECRET > ~/.git-credentials
+    git config credential.helper store
+    git config user.email "travis-ci@users.noreply.github.com"
+    git config user.name "Travis-CI"
+fi
+
 # Add changes to git.
 git add .
 
