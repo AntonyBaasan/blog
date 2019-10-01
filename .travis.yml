@@ -4,10 +4,10 @@ install:
 
 script:
   - hugo
-  
+
 deploy:
   - provider: script
-    script: ./deploy.sh
+    script: bash deploy.sh
     skip_cleanup: true
     on:
       branch: master
