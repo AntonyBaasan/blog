@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antony Baasan Blog</title>
+    <link>https://antonybaasan.github.io/</link>
+    <description>Recent content on Antony Baasan Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Sep 2019 13:27:47 -0400</lastBuildDate>
+    
+	<atom:link href="https://antonybaasan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Godzula - Idea</title>
+      <link>https://antonybaasan.github.io/godzula-idea/</link>
+      <pubDate>Mon, 30 Sep 2019 13:27:47 -0400</pubDate>
+      
+      <guid>https://antonybaasan.github.io/godzula-idea/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+
+&lt;p&gt;The Godzula is an open-source project that will help users to learn shortcuts. This project is very much inspired by one of my favorite web site ShortCutFoo.com. In the shortcutfoo you can learn shortcuts pretty much any popular tool out there.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
