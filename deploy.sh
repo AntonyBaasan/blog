@@ -1,7 +1,9 @@
 #!/bin/sh
 
-# create submodule inside public directory
+#  - Create submodule inside public directory
 # g submodule add -b master -f https://github.com/AntonyBaasan/antonybaasan.github.io public
+#  - Update submodule after clone
+# git submodule update --init
 
 # If a command fails then the deploy stops
 set -e
