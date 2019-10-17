@@ -9,7 +9,7 @@ draft: false
 
 https://github.com/AntonyBaasan/godzula
 
-The Godzula is an open-source project that will help users to learn shortcuts. This project is very much inspired by one of my favorite web site ShortCutFoo.com. In the shortcutfoo you can learn shortcuts pretty much any popular tool out there.
+The Godzula is an open-source project that helps users to learn shortcuts. This project is very much inspired by one of my favorite web site ShortCutFoo.com. In the shortcutfoo you can learn shortcuts pretty much any popular tool out there.
 
 <!--more-->
 
