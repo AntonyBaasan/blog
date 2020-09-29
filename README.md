@@ -14,7 +14,7 @@ git submodule update
 Development:
 ```
 # Starts local server (-D includes drafts)
-hugo start -D
+hugo server -D
 ```
 
 
