@@ -19,4 +19,10 @@ Development:
 hugo server -D
 ```
 
-
+Publish:
+```
+# build
+hugo
+cd public
+--- commit and push ---
+```
