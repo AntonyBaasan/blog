@@ -13,6 +13,11 @@ rm -rf public
 git submodule update
 ```
 
+Add posts:
+```
+hugo new blog/name-of-the-post
+```
+
 Development:
 ```
 # Starts local server (-D includes drafts)
