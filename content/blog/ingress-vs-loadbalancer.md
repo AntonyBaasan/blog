@@ -1,7 +1,7 @@
 ---
-title: "Kubernetes Ingress vs Load balancer"
+title: "Kubernetes: Ingress vs Load balancer"
 date: 2020-12-13T15:37:49-05:00
-draft: true
+draft: false
 ---
 
 Kubernetes Ingeress and Load balancer are the main ways to expose access to applications inside a Kubernetes cluster.
